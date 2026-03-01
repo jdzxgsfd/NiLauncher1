@@ -1,6 +1,0 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-fr/24.0/offline/ni-software-platform-bundle-x86-fr_24.0.0.49238-0+f86_offline.iso 
-ni-software-platform-bundle-x86-fr_24.0.0.49238-0+f86_offline.iso
-a129fef18f8e219991d889b2f7b7af74
-24.0.0.49238.x86.fr-FR
-Software Platform Bundle 2024 Q1 32bit French
-NI.SPB

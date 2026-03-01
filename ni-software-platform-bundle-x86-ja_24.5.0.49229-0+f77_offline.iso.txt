@@ -1,0 +1,6 @@
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-ja/24.5/offline/ni-software-platform-bundle-x86-ja_24.5.0.49229-0+f77_offline.iso
+ni-software-platform-bundle-x86-ja_24.5.0.49229-0+f77_offline.iso
+36ca07b443c072ccd2489a72251308a8
+24.5.0.49229.x86.ja-JP
+Software Platform Bundle 2024 Q3 32bit Japanese
+NI.SPB

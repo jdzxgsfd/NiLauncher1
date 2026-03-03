@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_tpm/2012%20SP1/2012sp1TouchPanel.exe 
-2012sp1TouchPanel.exe
-8b6bc46b359675ee4d55b2a7c363b7a9
-2012
-LabVIEW Touch Panel 2012
-NI.TouchPanel
+https://download.ni.com/support/softlib/labview/labview_toolkits/OPC%20UA/17.0.2/NILVOPCUA2017.zip 
+NILVOPCUA2017.zip
+b713f9418425c4336c8bb73aa21f07ca
+17
+LabVIEW OPC UA ToolKit 2017
+NI.OPCUA

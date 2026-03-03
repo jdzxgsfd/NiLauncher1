@@ -1,8 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-database-toolkit/21.0/offline/ni-labview-2021-database-toolkit_21.0.0_offline.iso 
-ni-labview-2021-database-toolkit_21.0.0_offline.iso
-4cb9531d96b201893f56354d6268d40c
-21.0.0.x64
-LabVIEW Database Connectivity Toolkit 2021 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-database-toolkit-x86/21.0/offline/ni-labview-2021-database-toolkit-x86_21.0.0_offline.iso 
+ni-labview-2021-database-toolkit-x86_21.0.0_offline.iso
+72bb19d31cf96005ee9b87d5bf221ec7
+21.0.0.x86
+LabVIEW Database Connectivity Toolkit 2021 32bit
 NI.DCT
-
 

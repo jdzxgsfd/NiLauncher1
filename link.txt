@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2014SP1f4/LabVIEWSoftMotionModule2014SP1f4.exe 
-LabVIEWSoftMotionModule2014SP1f4.exe
-6e4763a5d5a53dad2ab4681f7bf69d23
-14.SP1.f4
-LabVIEW SoftMotion Module 2014 SP1
+https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2015f3/LabVIEWSoftMotionModule2015f3.exe 
+LabVIEWSoftMotionModule2015f3.exe
+245af221e4303e0da7a219d90e89ff3c
+15.f3
+LabVIEW SoftMotion Module 2015
 NI.SoftMotion

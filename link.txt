@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-model-interface-toolkit/21.0/offline/ni-labview-2021-model-interface-toolkit_21.0.0_offline.iso 
-ni-labview-2021-model-interface-toolkit_21.0.0_offline.iso
-23c6ab4a71d7ce5cf80af993fe23431a
-21.0.0
-LabVIEW Model Interface Toolkit 2021
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-model-interface-toolkit/24.0/offline/ni-labview-2024-model-interface-toolkit_24.0.0_offline.iso
+ni-labview-2024-model-interface-toolkit_24.0.0_offline.iso
+72f121f2cb0d9389c0655a3c62c46d7a
+24.0.0
+LabVIEW Model Interface Toolkit 2024 Q1
 NI.ModelInterfaceToolkit

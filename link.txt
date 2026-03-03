@@ -1,6 +1,7 @@
-https://download.ni.com/support/softlib/diadem/release_18_0/DFTK_2018/DFTK_2018_18.0.0f7011.exe 
-DFTK_2018_18.0.0f7011.exe
-710980f6ea49844c35fbbd7822eb1ad8
-18
-LabVIEW DataFinder Toolkit 2018
+https://download.ni.com/support/softlib/diadem/release_17_0/DFTK_2017/DFTK_2017_17.0f06656.exe 
+DFTK_2017.exe
+388b96c9b5e501327ced3d92a3934cdd
+17
+LabVIEW DataFinder Toolkit 2017
 NI.DataFinder
+

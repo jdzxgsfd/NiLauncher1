@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-g/ni-g-web-development/22.3/offline/ni-g-web-development_22.3.2_offline.iso 
-ni-g-web-development_22.3.2_offline.iso
-1a3716a1d0b26735271ce252cfc4b0fc
-22.3.2.Community
-G Web Development Software 2022 Q3 Patch2 Full
+https://download.ni.com/support/softlib/g_web_development/2022%20Q1/ni-g-web-development-community_22.0.0_offline.iso 
+ni-g-web-development-community_22.0.0_offline.iso
+6e4deed3c374a90f8e2464dcaa7737ba
+22.0.0.Community
+G Web Development Software 2022 Q1 Community
 NI.GWeb

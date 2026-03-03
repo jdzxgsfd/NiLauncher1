@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-sv-toolkit-2019/19.0/offline/ni-sv-toolkit-2019_19.0.1_offline.iso 
-ni-sv-toolkit-2019_19.0.1_offline.iso
-8849692eb6cd42ad801113b6ba24f183
-19.0.1.x64
-LabVIEW Sound and Vibration Toolkit 2019 f1 64bit
+https://download.ni.com/support/nipkg/products/ni-s/ni-sv-toolkit-2020-x86/20.0/offline/ni-sv-toolkit-2020-x86_20.0.0_offline.iso 
+ni-sv-toolkit-2020-x86_20.0.0_offline.iso
+4cd90ab6ed48c7ef0d29174b1696d4db
+20.0.0.x86
+LabVIEW Sound and Vibration Toolkit 2020 32bit
 NI.SoundAndVibration

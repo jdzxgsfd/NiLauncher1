@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/DataFinder%20Toolkit/2011/labview_datafinder_toolkit_2011_sp1.zip 
-labview_datafinder_toolkit_2011_sp1.zip
-58bffc350ddf2cb76728a2da7ebe39c3
-11
-LabVIEW DataFinder Toolkit 2011
+https://download.ni.com/support/softlib/labview/labview_toolkits/DataFinder%20Toolkit/2010/LV2010DFTK.exe 
+LV2010DFTK.exe
+48338f75665d6714d5259b60bd09283b
+10
+LabVIEW DataFinder Toolkit 2010
 NI.DataFinder
 

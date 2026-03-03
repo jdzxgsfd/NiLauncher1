@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2016f2/LabVIEWSoftMotionModule2016f2.exe 
-LabVIEWSoftMotionModule2016f2.exe
-52eae093bc69141648e5fa0c4062315d
-16.f2
-LabVIEW SoftMotion Module 2016
+https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2017f1/LabVIEWSoftMotionModule2017f1.exe 
+LabVIEWSoftMotionModule2017f1.exe
+3e1952254b49f39082f1990910a910ea
+17.f1
+LabVIEW SoftMotion Module 2017
 NI.SoftMotion

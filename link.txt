@@ -1,6 +1,9 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2017/2017DCT.zip 
-2017DCT.zip
-832b4866f69f8fe448cda0dd66fc3df8
-17
-LabVIEW Database Connectivity Toolkit 2017
+https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2016/LVDCT2016.zip 
+LVDCT2016.zip
+03d98fb47d1772e0753564f14103e978
+16
+LabVIEW Database Connectivity Toolkit 2016
 NI.DCT
+
+
+

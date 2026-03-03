@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_statechart/2009/LVSCMOD2009SP1.exe 
-LVSCMOD2009SP1.exe
-9e6bcefb0e6aa912b31e5fc232971a54
-09
-LabVIEW Statechart Module 2009
+https://download.ni.com/support/softlib/labview/labview_statechart/2010/2010Statechart.exe 
+2010Statechart.exe
+3cac98bbc91d99f992697997ad4725fd
+10
+LabVIEW Statechart Module 2010
 NI.StateChart

@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-sv-toolkit-2019-x86/19.0/offline/ni-sv-toolkit-2019-x86_19.0.0_offline.iso 
-ni-sv-toolkit-2019-x86_19.0.0_offline.iso
-dd1d37c151347b2bd3e0a4b58fa8cd6b
-19.0.0.x86
-LabVIEW Sound and Vibration Toolkit 2019 32bit
+https://download.ni.com/support/softlib/DSA%20Apps/SVMS%202018/NISV2018.zip 
+NISV2018.zip
+38ce2de7d860460a9343cfa29bcd3984
+18
+LabVIEW Sound and Vibration Toolkit 2018
 NI.SoundAndVibration
 

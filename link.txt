@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion%20Control/LabVIEW%20NI%20SoftMotion%20Module/LabVIEW%20NI%20SoftMotion%20Module%202010sp1/LabVIEW2010SP1NISoftMotionModule.exe 
-LabVIEW2010SP1NISoftMotionModule.exe
-6668e63a982067fe426808f8daf1dfba
-10.SP1
-LabVIEW SoftMotion Module 2010 SP1
+https://download.ni.com/support/softlib/Motion%20Control/LabVIEW%20NI%20SoftMotion%20Module/LabVIEW%20NI%20SoftMotion%20Module%202011/LabVIEW2011NISoftMotionModule.exe 
+LabVIEW2011NISoftMotionModule.exe
+526422c0e33896614084a914bdb8d32b
+11
+LabVIEW SoftMotion Module 2011
 NI.SoftMotion

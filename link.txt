@@ -1,7 +1,8 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/vi%20analyzer/2009/LV_VIA_2009.zip 
-LV_VIA_2009.zip
-27add28ecab5ea068aa5419adf01d4d2
-09
-LabVIEW VI Analyzer Toolkit 2009
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-vi-analyzer-toolkit/21.0/offline/ni-labview-2021-vi-analyzer-toolkit_21.0.0_offline.iso 
+ni-labview-2021-vi-analyzer-toolkit_21.0.0_offline.iso
+301c066606e39a988e42030253adcdf9
+21.0.0.x64
+LabVIEW VI Analyzer Toolkit 2021 64bit
 NI.VIA
+
 

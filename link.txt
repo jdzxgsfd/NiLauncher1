@@ -1,8 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-vi-analyzer-toolkit/21.0/offline/ni-labview-2021-vi-analyzer-toolkit_21.0.0_offline.iso 
-ni-labview-2021-vi-analyzer-toolkit_21.0.0_offline.iso
-301c066606e39a988e42030253adcdf9
-21.0.0.x64
-LabVIEW VI Analyzer Toolkit 2021 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-vi-analyzer-toolkit-x86/21.0/offline/ni-labview-2021-vi-analyzer-toolkit-x86_21.0.0_offline.iso 
+ni-labview-2021-vi-analyzer-toolkit-x86_21.0.0_offline.iso
+ea9e7f5939e27aa155ab6ea05c608b0c
+21.0.0.x86
+LabVIEW VI Analyzer Toolkit 2021 32bit
 NI.VIA
-
 

@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-vi-analyzer-toolkit/19.0/offline/ni-labview-2019-vi-analyzer-toolkit_19.0.0_offline.iso 
-ni-labview-2019-vi-analyzer-toolkit_19.0.0_offline.iso
-047918e4e604ef0c1eed46a5376efe32
-19.0.0.x64
-LabVIEW VI Analyzer Toolkit 2019 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-vi-analyzer-toolkit-x86/19.0/offline/ni-labview-2019-vi-analyzer-toolkit-x86_19.0.0_offline.iso 
+ni-labview-2019-vi-analyzer-toolkit-x86_19.0.0_offline.iso
+e758b7d6cb483efc01a836bd5dae8dac
+19.0.0.x86
+LabVIEW VI Analyzer Toolkit 2019 32bit
 NI.VIA
 

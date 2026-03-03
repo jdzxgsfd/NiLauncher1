@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2018/2018DCT.zip 
-2018DCT.zip
-7b398fbf63b63909d8dc321702ec5ea2
+https://download.ni.com/support/softlib/diadem/release_18_0/DFTK_2018/DFTK_2018_18.0.0f7011.exe 
+DFTK_2018_18.0.0f7011.exe
+710980f6ea49844c35fbbd7822eb1ad8
 18
-LabVIEW Database Connectivity Toolkit 2018
-NI.DCT
+LabVIEW DataFinder Toolkit 2018
+NI.DataFinder

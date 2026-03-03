@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-opcua-toolkit/19.0/offline/ni-labview-2019-opcua-toolkit_19.0.0_offline.iso 
-ni-labview-2019-opcua-toolkit_19.0.0_offline.iso
-8a7a8f92abfa92253234f776ac1616ea
-19.0.0.x64
-LabVIEW OPC UA ToolKit 2019 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-opcua-toolkit-x86-zh-cn/20.6/offline/ni-labview-2020-opcua-toolkit-x86-zh-cn_20.6.0_offline.iso 
+ni-labview-2020-opcua-toolkit-x86-zh-cn_20.6.0_offline.iso
+40df8eb6a169a78ab97bc9fa63f8f2c1
+20.6.0.x86.zh-CN
+LabVIEW OPC UA ToolKit 2020 32bit Simplified Chinese
 NI.OPCUA

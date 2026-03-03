@@ -1,6 +1,8 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2009/LV_DBT_2009.zip 
-LV_DBT_2009.zip
-d9d343dbb0598d3fa57f6918fc0bd09c
-09
-LabVIEW Database Connectivity Toolkit 2009
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-database-toolkit/21.0/offline/ni-labview-2021-database-toolkit_21.0.0_offline.iso 
+ni-labview-2021-database-toolkit_21.0.0_offline.iso
+4cb9531d96b201893f56354d6268d40c
+21.0.0.x64
+LabVIEW Database Connectivity Toolkit 2021 64bit
 NI.DCT
+
+

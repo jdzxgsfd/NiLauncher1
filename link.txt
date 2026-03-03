@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion%20Control/LabVIEW%20NI%20SoftMotion%20Module/LabVIEW%20NI%20SoftMotion%20Module%202009%20sp1/LV2009SP1NISoftMotionModule.exe 
-LV2009SP1NISoftMotionModule.exe
-562e6806a07f87661f7f47f97619ea74
-09.SP1
-LabVIEW SoftMotion Module 2009 SP1
-NI.SoftMotion
+https://download.ni.com/support/softlib/g_web_development/2021/ni-g-web-development-software-21.0.0-community_21.0.0_offline.iso 
+ni-g-web-development-software-21.0.0-community_21.0.0_offline.iso
+422945769ff135fb6835e66d5e4d36eb
+21.0.0.Community
+G Web Development Software 2021 Community
+NI.GWeb

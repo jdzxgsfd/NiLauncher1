@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/signal_express/2013/2013SigExpress.exe 
-2013SigExpress.exe
-b0ed1f0e8305d8fd404e70dfe1682108
-13
-SignalExpress 2013 Patch
+https://download.ni.com/support/softlib/signal_express/2014/2014SigExpress.exe 
+2014SigExpress.exe
+8ce5315f9f6209a8c71d5b8f2dd76baa
+14
+SignalExpress 2014 Patch
 NI.SignalExpress

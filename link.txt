@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_statechart/2011/2011Statechart.exe 
-2011Statechart.exe
-0ccec1257d364b437b4988783733658d
-11
-LabVIEW Statechart Module 2011
+https://download.ni.com/support/softlib/labview/labview_statechart/2012/2012Statechart.exe 
+2012Statechart.exe
+95b7734719cc3e79eccb9698eb572115
+12
+LabVIEW Statechart Module 2012
 NI.StateChart

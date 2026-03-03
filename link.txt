@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-model-interface-toolkit-x86/19.0/offline/ni-labview-2019-model-interface-toolkit-x86_19.0.0_offline.iso 
-ni-labview-2019-model-interface-toolkit-x86_19.0.0_offline.iso
-d8772835c15d99dbe0c1dad410085a5c
-19.0.0
-LabVIEW Model Interface Toolkit 2019
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-model-interface-toolkit-x86/20.0/offline/ni-labview-2020-model-interface-toolkit-x86_20.0.0_offline.iso 
+ni-labview-2020-model-interface-toolkit-x86_20.0.0_offline.iso
+98703f20fae8eae2453f94b4a2cd1701
+20.0.0
+LabVIEW Model Interface Toolkit 2020
 NI.ModelInterfaceToolkit

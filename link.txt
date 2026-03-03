@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/ni_opc_servers/2013/2013OPCSERVERS.exe 
-2013OPCSERVERS.exe
-f2f12eabeb5f213dd9ccfb57686e97ed
-13
-OPC Servers 2013
+https://download.ni.com/support/nipkg/products/ni-o/ni-opc-servers/16.0/offline/ni-opc-servers_16.0.2_offline.iso 
+ni-opc-servers_16.0.2_offline.iso
+3dcd18312318446853c8abdac71f8906
+16.0.2
+OPC Servers 2016
 NI.OPCServer

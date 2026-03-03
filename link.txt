@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/DSA%20Apps/SVMS%202011/NISV2011.zip 
-NISV2011.zip
-d34f041438767a5e4dc997cef4206407
-11
-LabVIEW Sound and Vibration Toolkit 2011
+https://download.ni.com/support/softlib/DSA%20Apps/SVMS%202012/NISV2012.zip 
+NISV2012.zip
+64a03940a695680977afa36747bb06ea
+12
+LabVIEW Sound and Vibration Toolkit 2012
 NI.SoundAndVibration

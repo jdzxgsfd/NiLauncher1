@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-o/ni-opc-servers/16.0/offline/ni-opc-servers_16.0.2_offline.iso 
-ni-opc-servers_16.0.2_offline.iso
-3dcd18312318446853c8abdac71f8906
-16.0.2
-OPC Servers 2016
-NI.OPCServer
+https://download.ni.com/support/softlib/labview/labview_robotics/2010/LabVIEWRobotics2010.zip
+LabVIEWRobotics2010.zip
+9ad1912722aa7410e8f30ebc245d05df
+10
+LabVIEW Robotics Module 2010
+NI.Robotics

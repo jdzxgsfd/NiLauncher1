@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/vi%20analyzer/2017/2017VIA-32Win.zip 
-2017VIA-32Win.zip
-b4f6cfac44df0335dd21c22110cd1aed
-17.x86
-LabVIEW VI Analyzer Toolkit 2017 32bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/vi%20analyzer/2016/2016VIAnalyz-64Win.zip 
+2016VIAnalyz-64Win.zip
+305bf1f9d339e69413795a608fa56169
+16.x64
+LabVIEW VI Analyzer Toolkit 2016 64bit
 NI.VIA
 

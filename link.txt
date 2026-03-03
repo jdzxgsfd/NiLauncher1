@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/vi%20analyzer/2016/2016VIAnalyz-32Win.zip 
-2016VIAnalyz-32Win.zip
-7c707f5df7b3cae4d6914188bf58ca37
-16.x86
-LabVIEW VI Analyzer Toolkit 2016 32bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/vi%20analyzer/2015/2015VIAnalyz-Win.zip 
+2015VIAnalyz-Win.zip
+059efed6f359f237a9921423e531940d
+15
+LabVIEW VI Analyzer Toolkit 2015
 NI.VIA
 

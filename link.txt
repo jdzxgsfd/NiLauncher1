@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2012/2012DCT.zip 
-2012DCT.zip
-654c2eafe852fe9865967578794afe89
-12
-LabVIEW Database Connectivity Toolkit 2012
+https://download.ni.com/support/softlib/labview/labview_toolkits/Database%20Connectivity%20Tookit/2011/DCT2011.zip 
+DCT2011.zip
+5fdb4f27878f7d481637a04571d5ff90
+11
+LabVIEW Database Connectivity Toolkit 2011
 NI.DCT
 

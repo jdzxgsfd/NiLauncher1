@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_robotics/2011/Robotics2011SP1.zip 
-Robotics2011SP1.zip
-fe860153b91532fc5235b5c29943d691
-11
-LabVIEW Robotics Module 2011
+https://download.ni.com/support/softlib/labview/labview_robotics/2012%20SP1/2012SP1Robotics.zip
+2012SP1Robotics.zip
+0257f7b8aa060fa292291ebfffc449b8
+12
+LabVIEW Robotics Module 2012
 NI.Robotics

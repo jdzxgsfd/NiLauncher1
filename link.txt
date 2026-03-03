@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/signal_express/2011/2011SigExpress.exe 
-2011SigExpress.exe
-a715597f329ddabc17ff86c2f5000dd9
-11
-SignalExpress 2011 Patch
+https://download.ni.com/support/softlib/signal_express/2012/2012SigExpress.exe 
+2012SigExpress.exe
+0f3b00afe408e339f5d8b9e0bf87eec9
+12
+SignalExpress 2012 Patch
 NI.SignalExpress

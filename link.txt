@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-opcua-toolkit/25.5/offline/ni-labview-opcua-toolkit_25.5.0_offline.iso
-ni-labview-opcua-toolkit_25.5.0_offline.iso
-71e9c315c6d634e5c4fcc38264dd3cfc
-25.5.0
-LabVIEW OPC UA ToolKit 2025 Q3
-NI.OPCUA
+https://download.ni.com/support/softlib/labview/labview_dsc/2011SP1/OPCServers2012.zip 
+OPCServers2012.zip
+05a866413ad0959d2ee3ce262ac920c3
+12
+OPC Servers 2012
+NI.OPCServer

@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/diadem/release_17_0/DFTK_2017/DFTK_2017_17.0f06656.exe 
-DFTK_2017.exe
-388b96c9b5e501327ced3d92a3934cdd
-17
-LabVIEW DataFinder Toolkit 2017
+https://download.ni.com/support/softlib/diadem/release_16_0/DFTK_2016/DFTK%202016%20-%2016.0.06357.exe 
+DFTK 2016 - 16.0.06357.exe
+cb605541382a4b160e7b942e3bfc7aec
+16
+LabVIEW DataFinder Toolkit 2016
 NI.DataFinder
 

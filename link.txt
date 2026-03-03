@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_robotics/2016/2016Robotics.zip
-2016Robotics.zip
-efb7e24df940f0b9cb6387a708110656
-16
-LabVIEW Robotics Module 2016
+https://download.ni.com/support/softlib/labview/labview_robotics/2017/2017Robotics.zip
+2017Robotics.zip
+0192b8672f95cfb9fa7f1e58d4660beb
+17
+LabVIEW Robotics Module 2017
 NI.Robotics

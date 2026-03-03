@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_tpm/2012%20SP1/2012sp1TouchPanel.exe 
-2012sp1TouchPanel.exe
-8b6bc46b359675ee4d55b2a7c363b7a9
-2012
-LabVIEW Touch Panel 2012
+https://download.ni.com/support/softlib/labview/labview_touchpanel/2013/2013TouchPanel.exe 
+2013TouchPanel.exe
+109538cdc61383cbfb995d0be63feac0
+2013
+LabVIEW Touch Panel 2013
 NI.TouchPanel

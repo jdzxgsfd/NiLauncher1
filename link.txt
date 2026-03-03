@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/OPC%20UA/17.0.2/NILVOPCUA2017.zip 
-NILVOPCUA2017.zip
-b713f9418425c4336c8bb73aa21f07ca
-17
-LabVIEW OPC UA ToolKit 2017
+https://download.ni.com/support/softlib/labview/labview_toolkits/OPC%20UA/18.0/NIOPCUA2018.zip 
+NIOPCUA2018.zip
+1ba555d705aa220f6dad66cc5d9c2251
+18
+LabVIEW OPC UA ToolKit 2018
 NI.OPCUA

@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_touchpanel/2010/2010TouchPanel.exe 
-2010TouchPanel.exe
-125d89aff63e8db0586a26adaa95c2a9
-2010
-LabVIEW Touch Panel 2010
+https://download.ni.com/support/softlib/labview/labview_tpm/2011/LVTPM2011.zip 
+LVTPM2011.zip
+a3d45ed0de35750bccc869197db4d704
+2011
+LabVIEW Touch Panel 2011
 NI.TouchPanel

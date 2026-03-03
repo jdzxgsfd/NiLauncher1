@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-database-toolkit/19.0/offline/ni-labview-2019-database-toolkit_19.0.0_offline.iso 
-ni-labview-2019-database-toolkit_19.0.0_offline.iso
-7d7e7cd2f5bf9e0072f2090f4fd4d776
-19.0.0.x64
-LabVIEW Database Connectivity Toolkit 2019 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-database-toolkit-x86/19.0/offline/ni-labview-2019-database-toolkit-x86_19.0.0_offline.iso 
+ni-labview-2019-database-toolkit-x86_19.0.0_offline.iso
+29f594f6fb3bd654e36de48ef186e702
+19.0.0.x86
+LabVIEW Database Connectivity Toolkit 2019 32bit
 NI.DCT
 

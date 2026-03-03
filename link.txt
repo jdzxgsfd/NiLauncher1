@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/signal_express/2015/2015SigExpress.exe 
-2015SigExpress.exe
-a1a00df868fb2efdb11aaec0f6e143a3
-15
-SignalExpress 2015 Patch
-NI.SignalExpress
+https://download.ni.com/support/softlib/Motion%20Control/LabVIEW%20NI%20SoftMotion%20Module/LabVIEW%20NI%20SoftMotion%20Module%202009f1/NISoftMotionModule2009f1.exe 
+NISoftMotionModule2009f1.exe
+41721c9ac36223b23c68eda225c5f635
+09.f1
+LabVIEW SoftMotion Module 2009
+NI.SoftMotion

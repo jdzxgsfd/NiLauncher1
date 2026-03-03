@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2011SP1/OPCServers2012.zip 
-OPCServers2012.zip
-05a866413ad0959d2ee3ce262ac920c3
-12
-OPC Servers 2012
+https://download.ni.com/support/softlib/ni_opc_servers/2013/2013OPCSERVERS.exe 
+2013OPCSERVERS.exe
+f2f12eabeb5f213dd9ccfb57686e97ed
+13
+OPC Servers 2013
 NI.OPCServer

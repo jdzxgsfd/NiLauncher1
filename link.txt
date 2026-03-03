@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2018/LabVIEWSoftMotionModule2018.exe 
-LabVIEWSoftMotionModule2018.exe
-7dfed10eea6b2c71c448c68b07695083
-18
-LabVIEW SoftMotion Module 2018
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-softmotion-module-x86/20.5/offline/ni-labview-2020-softmotion-module-x86_20.5.0_offline.iso 
+ni-labview-2020-softmotion-module-x86_20.5.0_offline.iso
+0539368979d446610966ef24b4f57ebd
+20.5.0
+LabVIEW SoftMotion Module 2020
 NI.SoftMotion

@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-robotics-module-x86/19.0/offline/ni-labview-2019-robotics-module-x86_19.0.0_offline.iso 
-ni-labview-2019-robotics-module-x86_19.0.0_offline.iso
-c9a268eb04c8c05b055392e9883a5fdb
-19.0.0
-LabVIEW Robotics Module 2019
-NI.Robotics
+https://download.ni.com/support/softlib/labview/labview_statechart/2009/LVSCMOD2009SP1.exe 
+LVSCMOD2009SP1.exe
+9e6bcefb0e6aa912b31e5fc232971a54
+09
+LabVIEW Statechart Module 2009
+NI.StateChart

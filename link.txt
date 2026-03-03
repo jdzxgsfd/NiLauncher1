@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_statechart/2017/2017Statechart.exe 
-2017Statechart.exe
-85b7ffd1fea750dbfd2a247fda24bf00
-17
-LabVIEW Statechart Module 2017
+https://download.ni.com/support/softlib/labview/labview_statechart/2018/2018Statechart.exe
+2018Statechart.exe
+b7f19a09c7fb665ea90be31df43fd62a
+18
+LabVIEW Statechart Module 2018
 NI.StateChart

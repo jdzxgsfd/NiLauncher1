@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_tpm/2011/LVTPM2011.zip 
-LVTPM2011.zip
-a3d45ed0de35750bccc869197db4d704
-2011
-LabVIEW Touch Panel 2011
+https://download.ni.com/support/softlib/labview/labview_tpm/2012%20SP1/2012sp1TouchPanel.exe 
+2012sp1TouchPanel.exe
+8b6bc46b359675ee4d55b2a7c363b7a9
+2012
+LabVIEW Touch Panel 2012
 NI.TouchPanel

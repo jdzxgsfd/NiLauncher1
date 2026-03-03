@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/DataFinder%20Toolkit/2012/labview_2012_datafinder_toolkit.exe 
-labview_2012_datafinder_toolkit.exe
-30810e4ad16998b34a682a3ca9d822bb
-12
-LabVIEW DataFinder Toolkit 2012
+https://download.ni.com/support/softlib/labview/labview_toolkits/DataFinder%20Toolkit/2011/labview_datafinder_toolkit_2011_sp1.zip 
+labview_datafinder_toolkit_2011_sp1.zip
+58bffc350ddf2cb76728a2da7ebe39c3
+11
+LabVIEW DataFinder Toolkit 2011
 NI.DataFinder
 

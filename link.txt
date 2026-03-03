@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/OPC%20UA/18.0/NIOPCUA2018.zip 
-NIOPCUA2018.zip
-1ba555d705aa220f6dad66cc5d9c2251
-18
-LabVIEW OPC UA ToolKit 2018
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-opcua-toolkit-x86-zh-cn/19.0/offline/ni-labview-2019-opcua-toolkit-x86-zh-cn_19.0.0_offline.iso 
+labview-2019-opcua-toolkit-x86-zh-cn_19.0.0_offline.iso
+62448fb807594508f05c8a8a4138e7d8
+19.0.0.x86.zh-CN
+LabVIEW OPC UA ToolKit 2019 32bit Simplified Chinese
 NI.OPCUA

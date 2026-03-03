@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Motion/NISoftMotion/SoftMotion2018/LabVIEWSoftMotionModule2018.exe 
-LabVIEWSoftMotionModule2018.exe
-7dfed10eea6b2c71c448c68b07695083
-18
-LabVIEW SoftMotion Module 2018
+https://download.ni.com/support/softlib/Motion%20Control/LabVIEW%20NI%20SoftMotion%20Module/LabVIEW%20NI%20SoftMotion%20Module%202009%20sp1/LV2009SP1NISoftMotionModule.exe 
+LV2009SP1NISoftMotionModule.exe
+562e6806a07f87661f7f47f97619ea74
+09.SP1
+LabVIEW SoftMotion Module 2009 SP1
 NI.SoftMotion

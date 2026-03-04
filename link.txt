@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Suite/2012/NILV2012EPS.exe 
-NILV2012EPS.exe
-A90DC298817A2F73ABB97D9459566650
-12
-LabVIEW Electrical Power Toolkit 2012
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-electrical-power-toolkit-x86/23.5/offline/ni-labview-electrical-power-toolkit-x86_23.5.0_offline.iso 
+ni-labview-electrical-power-toolkit-x86_23.5.0_offline.iso
+ae7464718d1c05064db2cb86297205a9
+23.5.0
+LabVIEW Electrical Power Toolkit 2023 Q3
 NI.EPT

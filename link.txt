@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2018/2018DETT.zip 
-2018DETT.zip
-c5318d3a5b61ee5fd0283a5fc9a23c30
-18
-LabVIEW Desktop Execution Trace Toolkit 2018
+https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2017/2017DETT.zip 
+2017DETT.zip
+b16a4d11ed6134fa2fabb9820ba9cf9c
+17
+LabVIEW Desktop Execution Trace Toolkit 2017
 NI.DETT
 

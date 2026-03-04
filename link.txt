@@ -1,20 +1,6 @@
-https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/14.0/NISync1400.exe 
-NISync1400.exe
-ca86a7ec6fb5a1832550f7197ad78006
-14
-NI-Sync 14
+https://download.ni.com/support/nipkg/products/ni-s/ni-sync/23.0/offline/ni-sync_23.0.0_offline.iso 
+ni-sync_23.0.0_offline.iso
+a5ade0f75d50b6197c625725da821269
+23.0.0
+NI-Sync 2023 Q1
 NI.Sync
-
-
-
-
-
-
-
-
-
-
-
-
-
-

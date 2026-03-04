@@ -1,10 +1,6 @@
-https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/16.1/Runtime/NISync1610.exe 
+https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/16.1/NISync1610.exe 
 NISync1610.exe
-a70109b053f5a7c54d78633db78ba35c
-16.1.Runtime
-NI-Sync 16.1 Runtime
+8fa6bca395b38c046c6f8f57327b84b0
+16.1.Full
+NI-Sync 16.1 Full
 NI.Sync
-
-
-
-

@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_simulation/2009/LV2009SP1_CDSIM.zip
-LV2009SP1_CDSIM.zip
-1c5f5013190db80f514dbf10a3d76691
-09
-LabVIEW Control Design and Simulation Toolkit 2009
-NI.CDS
-
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-unit-test-framework-toolkit/21.0/offline/ni-labview-2021-unit-test-framework-toolkit_21.0.0_offline.iso 
+ni-labview-2021-unit-test-framework-toolkit_21.0.0_offline.iso
+b23098ebe59190ce3819aba9fde18661
+21.0.0.x64
+LabVIEW Unit Test Framework Toolkit 2021 64bit
+NI.UTF

@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2012SP1/2012sp1DSC.zip 
-2012sp1DSC.zip
-4367fb073892be5f936aa73b9fe9aaf9
-12
-LabVIEW Datalogging and Supervisory Control Module 2012
+https://download.ni.com/support/softlib/labview/labview_dsc/2011/LVDSC2011_2011SP1f1.zip
+LVDSC2011_2011SP1f1.zip
+2ae378045fa767d96f8d4e9d1a2679b0
+11.Patch
+LabVIEW Datalogging and Supervisory Control Module 2011 Patch
 NI.DSC
 

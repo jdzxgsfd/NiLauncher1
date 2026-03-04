@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/16.0/NISync1600.exe 
-NISync1600.exe
-f04f9cb0972b2300c5ba0668a5b0d13e
-16.Full
-NI-Sync 16.0 Full
+https://download.ni.com/support/nipkg/products/ni-s/ni-sync/22.8/offline/ni-sync_22.8.0_offline.iso 
+ni-sync_22.8.0_offline.iso
+088f931e6063949a42f42ca6504c63f6
+22.8.0
+NI-Sync 2022 Q3
 NI.Sync

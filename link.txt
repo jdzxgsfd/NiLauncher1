@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-dsc-module-x86/24.1/offline/ni-labview-2024-dsc-module-x86_24.1.0_offline.iso  
-ni-labview-2024-dsc-module-x86_24.1.0_offline.iso
-75d7300d707ec496db05e48d76689c4e
-24.1.0.Full
-LabVIEW Datalogging and Supervisory Control Module 2024 Full
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2023-dsc-module-runtime-system-x86/23.1/offline/ni-labview-2023-dsc-module-runtime-system-x86_23.1.0_offline.iso  
+ni-labview-2023-dsc-module-runtime-system-x86_23.1.0_offline.iso
+2a0cb117ffd92e7653db96445c4572fd
+23.1.0.Runtime
+LabVIEW Datalogging and Supervisory Control Module 2023 Runtime
 NI.DSC
 

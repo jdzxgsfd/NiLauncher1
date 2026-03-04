@@ -1,6 +1,20 @@
-https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/14.5/NISync1450.exe 
-NISync1450.exe
-903e429aaac3b2252b5b35b572692f58
-14.5.Full
-NI-Sync 14.5 Full
+https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/14.0/NISync1400.exe 
+NISync1400.exe
+ca86a7ec6fb5a1832550f7197ad78006
+14
+NI-Sync 14
 NI.Sync
+
+
+
+
+
+
+
+
+
+
+
+
+
+

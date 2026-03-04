@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Toolkit/2018/NIEPT2018+NIPP.exe 
-NIEPT2018+NIPP.exe
-3e1bc8d24542023deb7e20e547089c87
-18
-LabVIEW Electrical Power Toolkit 2018
+https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Toolkit/2017/NIEPT2017+NIPPB.exe 
+NIEPT2017+NIPPB.exe
+29fe4a5495fd4333d9d59a1f0ca921d9
+17
+LabVIEW Electrical Power Toolkit 2017
 NI.EPT
 

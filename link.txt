@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2013/2013DETT.zip 
-2013DETT.zip
-0b1ae86af00fb05bd2cef06981afc81e
-13
-LabVIEW Desktop Execution Trace Toolkit 2013
+https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2012/2012DETT.zip 
+2012DETT.zip
+b497ac3abd65f49e02a0eb04185a13d5
+12
+LabVIEW Desktop Execution Trace Toolkit 2012
 NI.DETT
 

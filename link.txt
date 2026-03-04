@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-sync/23.8/offline/ni-sync_23.8.0_offline.iso 
-ni-sync_23.8.0_offline.iso
-6c511a6ec0455e54c0c9c2e18fe1df44
-23.8.0
-NI-Sync 2023 Q4
+https://download.ni.com/support/nipkg/products/ni-s/ni-sync/25.5/offline/ni-sync_25.5.0_offline.iso 
+ni-sync_25.5.0_offline.iso
+ab91e5f2fd2a9bc7db8413e07299256c
+25.5.0
+NI-Sync 2024 Q3
 NI.Sync

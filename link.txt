@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/17.0/NISyncFull1700.exe 
-NISyncFull1700.exe
-9282c4d81b949353698597908117dadb
-17.Full
-NI-Sync 17.0 Full
+https://download.ni.com/support/softlib/Timing_Sync/NI-Sync/16.0/NISync1600.exe 
+NISync1600.exe
+f04f9cb0972b2300c5ba0668a5b0d13e
+16.Full
+NI-Sync 16.0 Full
 NI.Sync

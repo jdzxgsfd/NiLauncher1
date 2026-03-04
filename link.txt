@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-desktop-execution-trace-toolkit/20.0/offline/ni-labview-desktop-execution-trace-toolkit_20.0.0_offline.iso
-ni-labview-desktop-execution-trace-toolkit_20.0.0_offline.iso 
-9ab595115e2b607e253657cacf5a50af
-20.0.0
-LabVIEW Desktop Execution Trace Toolkit 2020
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-desktop-execution-trace-toolkit/19.0/offline/ni-labview-desktop-execution-trace-toolkit_19.0.0_offline.iso 
+ni-labview-desktop-execution-trace-toolkit_19.0.0_offline.iso
+31e24243613369ded0553b9cf13df594
+19.0.0
+LabVIEW Desktop Execution Trace Toolkit 2019
 NI.DETT
 

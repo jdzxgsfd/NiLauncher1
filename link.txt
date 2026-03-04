@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-aspt-toolkit/21.0/offline/ni-labview-2021-aspt-toolkit_21.0.0_offline.iso
-ni-labview-2021-aspt-toolkit_21.0.0_offline.iso
-e7cf4cb200d01d841526030d12e08605
-21.0.0.x64
-LabVIEW Advanced Signal Processing Toolkit 2021 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-aspt-toolkit-x86/21.0/offline/ni-labview-2021-aspt-toolkit-x86_21.0.0_offline.iso
+ni-labview-2021-aspt-toolkit-x86_21.0.0_offline.iso
+e6cb31fed32d8016fb89a38fed2a7e36
+21.0.0.x86
+LabVIEW Advanced Signal Processing Toolkit 2021 32bit
 NI.ASPT

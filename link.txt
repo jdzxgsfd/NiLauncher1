@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-unit-test-framework-toolkit-x86/20.0/offline/ni-labview-2020-unit-test-framework-toolkit-x86_20.0.0_offline.iso 
-ni-labview-2020-unit-test-framework-toolkit-x86_20.0.0_offline.iso
-abc2123e16e6c7e9b5a57570a3877ca9
-20.0.0.x86
-LabVIEW Unit Test Framework Toolkit 2020 32bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-unit-test-framework-toolkit/19.0/offline/ni-labview-2019-unit-test-framework-toolkit_19.0.0_offline.iso 
+ni-labview-2019-unit-test-framework-toolkit_19.0.0_offline.iso
+37163fcd5dcf765fafa98eb15bb6f0a0
+19.0.0.x64
+LabVIEW Unit Test Framework Toolkit 2019 64bit
 NI.UTF
 

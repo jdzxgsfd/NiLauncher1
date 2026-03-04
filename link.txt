@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2017/2017DFDT.zip
-2017DFDT.zip
-3f30ffa8e8462ff14faefa689ec8903d
-17
-LabVIEW Digital Filter Design Toolkit 2017
+https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2016/2016DFDT.zip
+2016DFDT.zip
+3dd481b05fe2d387b642a7ae2edca04f
+16
+LabVIEW Digital Filter Design Toolkit 2016
 NI.DFDT
 

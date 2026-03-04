@@ -1,7 +1,13 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Suite/2013/NIEPS2013.exe 
-NIEPS2013.exe
-D52287CB2994D15C94FD6244EA544F53
-13
-LabVIEW Electrical Power Toolkit 2013
-NI.EPT
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-desktop-execution-trace-toolkit/21.0/offline/ni-labview-desktop-execution-trace-toolkit_21.0.0_offline.iso
+ni-labview-desktop-execution-trace-toolkit_21.0.0_offline.iso
+7079b55422cbeeced7ed92a5d4ca95c9
+21.0.0
+LabVIEW Desktop Execution Trace Toolkit 2021
+NI.DETT
+
+
+
+
+
+
 

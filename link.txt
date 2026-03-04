@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-electrical-power-toolkit-x86/19.0/offline/ni-labview-2019-electrical-power-toolkit-x86_19.0.0_offline.iso 
-ni-labview-2019-electrical-power-toolkit-x86_19.0.0_offline.iso
-dc598dd31d82c501a43a38a4dc07d5d7
-19.0.0
-LabVIEW Electrical Power Toolkit 2019
+https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Toolkit/2018/NIEPT2018+NIPP.exe 
+NIEPT2018+NIPP.exe
+3e1bc8d24542023deb7e20e547089c87
+18
+LabVIEW Electrical Power Toolkit 2018
 NI.EPT
 

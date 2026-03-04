@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Unit%20Test%20Framework/2018/2018UTF.zip 
-2018UTF.zip
-dc3fc8358cc5def3b38bf612bb21be9c
-18.x86
-LabVIEW Unit Test Framework Toolkit 2018 32bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/Unit%20Test%20Framework/2017/2017UTF-64Win.zip 
+2017UTF-64Win.zip
+218b4353aa0ae4002609bd2412a59aca
+17.x64
+LabVIEW Unit Test Framework Toolkit 2017 64bit
 NI.UTF
 

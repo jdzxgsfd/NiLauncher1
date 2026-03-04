@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2018/2018DFDT-64bit.zip
-2018DFDT-64bit.zip
-4ed74081e1c6c15f14b93427e9956617
-18.x64
-LabVIEW Digital Filter Design Toolkit 2018 64bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2018/2018DFDT.zip
+2018DFDT.zip
+7a345b206ea82066730db7f031e7c75a
+18.x32
+LabVIEW Digital Filter Design Toolkit 2018 32bit
 NI.DFDT
 

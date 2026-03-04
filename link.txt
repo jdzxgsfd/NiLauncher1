@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2009SP1/LV2009SP1DSC.exe  
-LV2009SP1DSC.exe
-190ff32af9cfcd51c00c11b2bcd6a75f
-09
-LabVIEW Datalogging and Supervisory Control Module 2009
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024-dsc-module-x86/24.1/offline/ni-labview-2024-dsc-module-x86_24.1.0_offline.iso  
+ni-labview-2024-dsc-module-x86_24.1.0_offline.iso
+75d7300d707ec496db05e48d76689c4e
+24.1.0.Full
+LabVIEW Datalogging and Supervisory Control Module 2024 Full
 NI.DSC
-

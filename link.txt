@@ -1,6 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-electrical-power-toolkit-x86/23.5/offline/ni-labview-electrical-power-toolkit-x86_23.5.0_offline.iso 
-ni-labview-electrical-power-toolkit-x86_23.5.0_offline.iso
-ae7464718d1c05064db2cb86297205a9
-23.5.0
-LabVIEW Electrical Power Toolkit 2023 Q3
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2022-electrical-power-toolkit-x86/23.3/offline/ni-labview-2022-electrical-power-toolkit-x86_23.3.0_offline.iso 
+ni-labview-2022-electrical-power-toolkit-x86_23.3.0_offline.iso
+0a618458e3f745dd66fcbc683d015da2
+23.3.0
+LabVIEW Electrical Power Toolkit 2023 Q2
 NI.EPT
+

@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-sync/21.0/offline/ni-sync_21.0.0_offline.iso 
-ni-sync_21.0.0_offline.iso
-2d3d9f8832825bf037d88a452548d7bb
-21.0.0
-NI-Sync 21.0
+https://download.ni.com/support/nipkg/products/ni-s/ni-sync/20.1/offline/ni-sync_20.1.0_offline.iso 
+ni-sync_20.1.0_offline.iso
+b395d1c2b243499c3a0e6229d89fda5a
+20.1.0
+NI-Sync 20.1
 NI.Sync

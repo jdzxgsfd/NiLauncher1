@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-dfd-toolkit-x86/19.0/offline/ni-labview-2019-dfd-toolkit-x86_19.0.0_offline.iso
-ni-labview-2019-dfd-toolkit-x86_19.0.0_offline.iso
-260dcc5e633d1f144e47b75585460e2c
-19.0.0.x86
-LabVIEW Digital Filter Design Toolkit 2019 32bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2018/2018DFDT-64bit.zip
+2018DFDT-64bit.zip
+4ed74081e1c6c15f14b93427e9956617
+18.x64
+LabVIEW Digital Filter Design Toolkit 2018 64bit
 NI.DFDT
 

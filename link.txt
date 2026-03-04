@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2009/LV_DET_2009.zip 
-LV_DET_2009.zip
-d27e1a5944879137378bef3714955cb3
-09
-LabVIEW Desktop Execution Trace Toolkit 2009
+https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2014/2014DETT.zip 
+2014DETT.zip
+04396b409badba5f3948582526383d9c
+14
+LabVIEW Desktop Execution Trace Toolkit 2014
 NI.DETT
-

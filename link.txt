@@ -1,8 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2022-cdsim-module/22.3/offline/ni-labview-2022-cdsim-module_22.3.0_offline.iso 
-ni-labview-2022-cdsim-module_22.3.0_offline.iso
-53adf24cdda9c3353df75e8edbc7e146
-22.3.0.x64
-LabVIEW Control Design and Simulation Toolkit 2022 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2022-cdsim-module-x86/22.3/offline/ni-labview-2022-cdsim-module-x86_22.3.0_offline.iso 
+ni-labview-2022-cdsim-module-x86_22.3.0_offline.iso
+44ce02a4cc2cfadd8829c75aa06d118e
+22.3.0.x86
+LabVIEW Control Design and Simulation Toolkit 2022 32bit
 NI.CDS
-
-

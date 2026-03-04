@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Advanced%20Signal%20Processing/2018/2018ASPT-64bit.zip
-2018ASPT-64bit.zip
-181d380452562363de38591d910ff715
-18.x64
-LabVIEW Advanced Signal Processing Toolkit 2018 64bit
+https://download.ni.com/support/softlib/labview/labview_toolkits/Advanced%20Signal%20Processing/2018/2018ASPT.zip
+2018ASPT.zip
+9a74b4f1d9c7363fdbb26256716e114a
+18.x86
+LabVIEW Advanced Signal Processing Toolkit 2018 32bit
 NI.ASPT
 

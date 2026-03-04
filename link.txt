@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2018/2018DSC.zip 
-2018DSC.zip
-07f68901d2e1efff22ec0b56f6b3811e
-18.Full
-LabVIEW Datalogging and Supervisory Control Module 2018 Full
+https://download.ni.com/support/softlib/labview/labview_dsc/2017/2017DSC-RTS.zip 
+2017DSC-RTS.zip
+dd1cc45ee6a58f83ca4135cf8f9f1952
+17.Runtime
+LabVIEW Datalogging and Supervisory Control Module 2017 Runtime
 NI.DSC
-

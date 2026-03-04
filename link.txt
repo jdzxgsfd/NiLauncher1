@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-dsc-module-runtime-system-x86/19.0/offline/ni-labview-2019-dsc-module-runtime-system-x86_19.0.0_offline.iso 
-ni-labview-2019-dsc-module-runtime-system-x86_19.0.0_offline.iso
-882ecef0f3d80d65f771e153a4a7d636
-19.0.0.Runtime
-LabVIEW Datalogging and Supervisory Control Module 2019 Runtime
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-dsc-module-x86/19.0/offline/ni-labview-2019-dsc-module-x86_19.0.0_offline.iso 
+ni-labview-2019-dsc-module-x86_19.0.0_offline.iso
+c211fe1bb64db75a1e18637eba17f62a
+19.0.0.Full
+LabVIEW Datalogging and Supervisory Control Module 2019 Full
 NI.DSC
 

@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-electrical-power-toolkit-x86/20.0/offline/ni-labview-2020-electrical-power-toolkit-x86_20.0.0_offline.iso 
-ni-labview-2020-electrical-power-toolkit-x86_20.0.0_offline.iso
-e174548d8a4ef9a6e463a64010109abc
-20.0.0
-LabVIEW Electrical Power Toolkit 2020
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-electrical-power-toolkit-x86/19.0/offline/ni-labview-2019-electrical-power-toolkit-x86_19.0.0_offline.iso 
+ni-labview-2019-electrical-power-toolkit-x86_19.0.0_offline.iso
+dc598dd31d82c501a43a38a4dc07d5d7
+19.0.0
+LabVIEW Electrical Power Toolkit 2019
 NI.EPT
 

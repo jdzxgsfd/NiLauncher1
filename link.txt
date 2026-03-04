@@ -1,6 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-unit-test-framework-toolkit/21.0/offline/ni-labview-2021-unit-test-framework-toolkit_21.0.0_offline.iso 
-ni-labview-2021-unit-test-framework-toolkit_21.0.0_offline.iso
-b23098ebe59190ce3819aba9fde18661
-21.0.0.x64
-LabVIEW Unit Test Framework Toolkit 2021 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-unit-test-framework-toolkit-x86/21.0/offline/ni-labview-2021-unit-test-framework-toolkit-x86_21.0.0_offline.iso 
+ni-labview-2021-unit-test-framework-toolkit-x86_21.0.0_offline.iso
+33d56ce114fffd09d9c73dfd378a24ae
+21.0.0.x86
+LabVIEW Unit Test Framework Toolkit 2021 32bit
 NI.UTF
+

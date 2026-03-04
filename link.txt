@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_simulation/2011/CDSim2011.zip
-CDSim2011.zip
-fa0869846de1a4f63741f23b6d88fe39
-11
-LabVIEW Control Design and Simulation Toolkit 2011
+https://download.ni.com/support/softlib/labview/labview_simulation/2010sp1/2010sp1CDSim.zip
+2010sp1CDSim.zip
+f8889612f8a99ee1e975d72bb5a32169
+10
+LabVIEW Control Design and Simulation Toolkit 2010
 NI.CDS
 

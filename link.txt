@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Desktop%20Execution%20Trace/2009/LV_DET_2009.zip 
-LV_DET_2009.zip
-d27e1a5944879137378bef3714955cb3
-09
-LabVIEW Desktop Execution Trace Toolkit 2009
-NI.DETT
-
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-aspt-toolkit/21.0/offline/ni-labview-2021-aspt-toolkit_21.0.0_offline.iso
+ni-labview-2021-aspt-toolkit_21.0.0_offline.iso
+e7cf4cb200d01d841526030d12e08605
+21.0.0.x64
+LabVIEW Advanced Signal Processing Toolkit 2021 64bit
+NI.ASPT

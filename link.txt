@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2012/2012DFDT.zip
-2012DFDT.zip
-fe9de99da0596911c826181c1790041d
-12
-LabVIEW Digital Filter Design Toolkit 2012
+https://download.ni.com/support/softlib/labview/labview_toolkits/Digital%20Filter%20Design/2011/2011DFDT.zip
+2011DFDT.zip
+7d20bc2a08d62105e1d2f5344e2d024b
+11
+LabVIEW Digital Filter Design Toolkit 2011
 NI.DFDT
 

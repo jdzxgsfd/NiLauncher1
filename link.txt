@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_simulation/2018/2018CDSim.zip
-2018CDSim.zip
-4577c88694cca96d6eb62a31081ab648
-18.x86
-LabVIEW Control Design and Simulation Toolkit 2018 32bit
+https://download.ni.com/support/softlib/labview/labview_simulation/2017/2017CDSim-64bitWin.zip
+2017CDSim-64bitWin.zip
+92d9d9489b8d363950a4d255279bf262
+17.x64
+LabVIEW Control Design and Simulation Toolkit 2017 64bit
 NI.CDS
 

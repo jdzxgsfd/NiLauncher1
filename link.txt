@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-cdsim-module/20.0/offline/ni-labview-2020-cdsim-module_20.0.0_offline.iso 
-ni-labview-2020-cdsim-module_20.0.0_offline.iso
-c5892177295815db94a778376a1680e5
-20.0.0.x64
-LabVIEW Control Design and Simulation Toolkit 2020 64bit
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2020-cdsim-module-x86/20.0/offline/ni-labview-2020-cdsim-module-x86_20.0.0_offline.iso 
+ni-labview-2020-cdsim-module-x86_20.0.0_offline.iso
+98bafe4e81b44f740b691e0a9153e578
+20.0.0.x86
+LabVIEW Control Design and Simulation Toolkit 2020 32bit
 NI.CDS
 

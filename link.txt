@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2010sp1/2010sp1LvDSC.zip  
-2010sp1LvDSC.zip
-a34053cc5fc2a3e7ea80d3639ff57d74
-10
-LabVIEW Datalogging and Supervisory Control Module 2010
+https://download.ni.com/support/softlib/labview/labview_dsc/2009SP1/LV2009SP1DSC.exe  
+LV2009SP1DSC.exe
+190ff32af9cfcd51c00c11b2bcd6a75f
+09
+LabVIEW Datalogging and Supervisory Control Module 2009
 NI.DSC
 

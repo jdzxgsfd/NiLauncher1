@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Suite/2014/NIEPS2014.exe 
-NIEPS2014.exe
-fa8049ca523e34f025816aae3f374941
-14
-LabVIEW Electrical Power Toolkit 2014
+https://download.ni.com/support/softlib/labview/labview_toolkits/Electrical%20Power%20Suite/2013/NIEPS2013.exe 
+NIEPS2013.exe
+D52287CB2994D15C94FD6244EA544F53
+13
+LabVIEW Electrical Power Toolkit 2013
 NI.EPT
 

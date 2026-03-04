@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-cdsim-module-x86/19.0/offline/ni-labview-2019-cdsim-module-x86_19.0.0_offline.iso 
-ni-labview-2019-cdsim-module-x86_19.0.0_offline.iso
-a18f2dd67c2ffa79f91cb324e7ff8963
-19.0.0.x86
-LabVIEW Control Design and Simulation Toolkit 2019 32bit
+https://download.ni.com/support/softlib/labview/labview_simulation/2018/2018CDSim-64bit.zip
+2018CDSim-64bit.zip
+10131b7997979e18fbf9c07b15b2594b
+18.x64
+LabVIEW Control Design and Simulation Toolkit 2018 64bit
 NI.CDS
 

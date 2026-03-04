@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_dsc/2014/2014DSC.zip 
-2014DSC.zip
-3a8b6cf9ca80b6c15340da3dfc005e08
-14
-LabVIEW Datalogging and Supervisory Control Module 2014
+https://download.ni.com/support/softlib/labview/labview_dsc/2013SP1/2013sp1DSC.zip 
+2013sp1DSC.zip
+dd4f0daf42384d3a43d371ab5d71b25b
+13
+LabVIEW Datalogging and Supervisory Control Module 2013
 NI.DSC
 

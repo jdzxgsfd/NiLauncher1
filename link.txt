@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/labview/labview_toolkits/Unit%20Test%20Framework/2013/2013UTF.zip 
-2013UTF.zip
-74028a72b2665e9972fbd3ae1f52b445
-13
-LabVIEW Unit Test Framework Toolkit 2013
+https://download.ni.com/support/softlib/labview/labview_toolkits/Unit%20Test%20Framework/2012/2012UTF.zip 
+2012UTF.zip
+2ef2064363ad38c4c579bf8bd484a5b1
+12
+LabVIEW Unit Test Framework Toolkit 2012
 NI.UTF
 

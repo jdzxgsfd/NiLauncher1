@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-sync/22.8/offline/ni-sync_22.8.0_offline.iso 
-ni-sync_22.8.0_offline.iso
-088f931e6063949a42f42ca6504c63f6
-22.8.0
-NI-Sync 2022 Q3
-NI.Sync
+https://trashbytes.net/dl/hqwzXYkpfxLkNaENztsRNyrxOM_OhCvTYfre8jXn66ulhqno86X2xXA390cIFaUddCzoLfF-nFJsJsD7moS_yuDbEOZDIMLQ6bdLz9NVbpovNMwfmF3owJOW7U8pPHGnXwalK91GMQRMeD7rju7s_DxkzxdOA-ivuqKW1jHn-HROdSjyX67FmxGvTviO5GZw0l5v2Y3SZcye?v=1772817182-dqXDWEVrSm%2F%2Fg2YsQPLs4oPTbKVWOj1JZ6n%2BNRNXUKs%3D
+ar-sa_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso
+db2dc6901b7d1e9e5ca6eb1c82020de9f5634677
+Arabic
+Arabic
+MAS.Win10.Consumer.x86.22H2.2025.10.19045.6456

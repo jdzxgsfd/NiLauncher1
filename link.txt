@@ -1,10 +1,3 @@
-https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/22.8/offline/ni-488.2_22.8.0_offline.iso
-ni-488.2_22.8.0_offline.iso
-8d9578dfbaee2e256ccc0577f59d76ce
-22.8.0
-NI-488.2 2022Q4
-NI.488.2
-
 https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/23.5/offline/ni-488.2_23.5.0_offline.iso
 ni-488.2_23.5.0_offline.iso
 9eda483134517e8d7d8372340a6fac3c

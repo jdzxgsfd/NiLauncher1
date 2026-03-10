@@ -1,11 +1,3 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-myrio-toolkit-x86/7.0/offline/ni-labview-2019-myrio-toolkit-x86_7.0.0_offline.iso 
-ni-labview-2019-myrio-toolkit-x86_7.0.0_offline.iso
-c922194cb2b6744659f6df5e8937aa7b
-19
-LabVIEW myRIO Toolkit 2019
-NI.myRIO
-
-
 https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-myrio-toolkit-x86/8.0/offline/ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso 
 ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso
 6f8fcfeac2f2eea8e4db07472765070e

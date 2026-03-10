@@ -1,10 +1,3 @@
-https://download.ni.com/support/softlib/labview/labview_myrio/2014/2014myRIO.iso 
-2014myRIO.iso
-c2d09bc4518e8b53a6320f393da48616
-14
-LabVIEW myRIO Toolkit 2014
-NI.myRIO
-
 https://download.ni.com/support/softlib/labview/labview_myrio/2015/2015myRIO.iso 
 2015myRIO.iso
 cfb6958293bd13e28cbd39f324f76cdb

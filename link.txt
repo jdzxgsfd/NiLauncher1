@@ -1,6 +1,98 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-myrio-toolkit-x86/8.0/offline/ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso 
-ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso
-6f8fcfeac2f2eea8e4db07472765070e
-21
-LabVIEW myRIO Toolkit 2021 SP1
-NI.myRIO
+https://download.ni.com/support/softlib/gpib/Windows/17.6/NI4882_1760f0.zip
+NI4882_1760f0.zip
+8ea66b355511c3a3c79feb42b3b1af4a
+17.6.Full
+NI-488.2 17.6 Full
+NI.488.2
+
+zhttps://download.ni.com/support/softlib/gpib/Windows/17.6/NI488Runtime_1760f0.zip
+NI488Runtime_1760f0.zip
+2f12f6f0f9de41e01d3ebe24ad90a8f3
+17.6.Runtime
+NI-488.2 17.6 Runtime
+NI.488.2
+
+https://download.ni.com/support/softlib/gpib/Windows/18.5/NI4882_1850f1.zip
+NI4882_1850f1.zip
+85c72582371608b06f3d9e6e10a7fb91
+18.5.Full
+NI-488.2 18.5 Full
+NI.488.2
+
+https://download.ni.com/support/softlib/gpib/Windows/18.5/NI488Runtime_1850.zip
+NI488Runtime_1850.zip
+32e945de52fc9a7244b2453c881004df
+18.5.Runtime
+NI-488.2 18.5 Runtime
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/19.0/offline/ni-488.2_19.0.0_offline.iso
+ni-488.2_19.0.0_offline.iso
+94cca30e8475adb095124f88cc649e6e
+19.0.0
+NI-488.2 19.0
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/19.5/offline/ni-488.2_19.5.0_offline.iso
+ni-488.2_19.5.0_offline.iso
+c5efb6c4a247c48763430263f4febcb2
+19.5.0
+NI-488.2 19.5
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/20.0/offline/ni-488.2_20.0.0_offline.iso
+ni-488.2_20.0.0_offline.iso
+d56c0f225b5a863feaa5fe20006419f4
+20.0.0
+NI-488.2 20.0
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/21.0/offline/ni-488.2_21.0.0_offline.iso
+ni-488.2_21.0.0_offline.iso
+c4558ee435c5a0b3ae4f4c84ec18c7a5
+21.0.0
+NI-488.2 21.0
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/21.5/offline/ni-488.2_21.5.0_offline.iso
+ni-488.2_21.5.0_offline.iso
+c65dbcf38bcafe3b08a88fb81f3f0798
+21.5.0
+NI-488.2 21.5
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/22.8/offline/ni-488.2_22.8.0_offline.iso
+ni-488.2_22.8.0_offline.iso
+8d9578dfbaee2e256ccc0577f59d76ce
+22.8.0
+NI-488.2 2022Q4
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/23.5/offline/ni-488.2_23.5.0_offline.iso
+ni-488.2_23.5.0_offline.iso
+9eda483134517e8d7d8372340a6fac3c
+23.5.0
+NI-488.2 2023Q3
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/24.5/offline/ni-488.2_24.5.0_offline.iso
+ni-488.2_24.5.0_offline.iso
+37942df57724b7b47ea6f5253ee6e1d2
+24.5.0
+NI-488.2 2024Q3
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/25.0/offline/ni-488.2_25.0.0_offline.iso
+ni-488.2_25.0.0_offline.iso
+e8994dc09467813c431d48df189231cb
+25.0.0
+NI-488.2 2025Q1
+NI.488.2
+
+https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/25.5/offline/ni-488.2_25.5.0_offline.iso
+ni-488.2_25.5.0_offline.iso
+b5d70eece047171d95650e69ff17ea23
+25.5.0
+NI-488.2 2025Q3
+NI.488.2
+

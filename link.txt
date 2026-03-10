@@ -1,10 +1,3 @@
-https://download.ni.com/support/softlib/labview/labview_myrio/2013/2013myRIO.zip 
-2013myRIO.zip
-230970d66448af60e4d2998c09a688f3
-13
-LabVIEW myRIO Toolkit 2013
-NI.myRIO
-
 https://download.ni.com/support/softlib/labview/labview_myrio/2013/LVmyRIO2013_f1Patch.zip 
 LVmyRIO2013_f1Patch.zip
 c200bbcc022832cff3fd4fa4e6f846cb

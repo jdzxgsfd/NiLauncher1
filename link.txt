@@ -1,1 +1,62 @@
-1
+https://download.ni.com/support/softlib/labview/labview_myrio/2013/2013myRIO.zip 
+2013myRIO.zip
+230970d66448af60e4d2998c09a688f3
+13
+LabVIEW myRIO Toolkit 2013
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2013/LVmyRIO2013_f1Patch.zip 
+LVmyRIO2013_f1Patch.zip
+c200bbcc022832cff3fd4fa4e6f846cb
+13.Patch
+LabVIEW myRIO Toolkit 2013 Patch
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2014/2014myRIO.iso 
+2014myRIO.iso
+c2d09bc4518e8b53a6320f393da48616
+14
+LabVIEW myRIO Toolkit 2014
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2015/2015myRIO.iso 
+2015myRIO.iso
+cfb6958293bd13e28cbd39f324f76cdb
+15
+LabVIEW myRIO Toolkit 2015
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2016/2016myRIO.iso 
+2016myRIO.iso
+52504dc27bbaf48cc80ebc5e6d8cf14b
+16
+LabVIEW myRIO Toolkit 2016
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2017/2017myRIO.iso 
+2017myRIO.iso
+63654d4de2fc8b9b1b6ad37ae7ed4e5d
+17
+LabVIEW myRIO Toolkit 2017
+NI.myRIO
+
+https://download.ni.com/support/softlib/labview/labview_myrio/2018/2018myRIO.zip 
+2018myRIO.zip
+3e729f0850f0b216a08ff520278db66b
+18
+LabVIEW myRIO Toolkit 2018
+NI.myRIO
+
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2019-myrio-toolkit-x86/7.0/offline/ni-labview-2019-myrio-toolkit-x86_7.0.0_offline.iso 
+ni-labview-2019-myrio-toolkit-x86_7.0.0_offline.iso
+c922194cb2b6744659f6df5e8937aa7b
+LabVIEW myRIO Toolkit 2019
+NI.myRIO
+19
+
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2021-myrio-toolkit-x86/8.0/offline/ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso 
+ni-labview-2021-myrio-toolkit-x86_8.0.0_offline.iso
+6f8fcfeac2f2eea8e4db07472765070e
+21
+LabVIEW myRIO Toolkit 2021 SP1
+NI.myRIO

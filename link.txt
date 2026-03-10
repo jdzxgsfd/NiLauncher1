@@ -1,11 +1,4 @@
-https://download.ni.com/support/softlib/gpib/Windows/17.6/NI4882_1760f0.zip
-NI4882_1760f0.zip
-8ea66b355511c3a3c79feb42b3b1af4a
-17.6.Full
-NI-488.2 17.6 Full
-NI.488.2
-
-zhttps://download.ni.com/support/softlib/gpib/Windows/17.6/NI488Runtime_1760f0.zip
+https://download.ni.com/support/softlib/gpib/Windows/17.6/NI488Runtime_1760f0.zip
 NI488Runtime_1760f0.zip
 2f12f6f0f9de41e01d3ebe24ad90a8f3
 17.6.Runtime

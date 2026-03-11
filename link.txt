@@ -1,10 +1,3 @@
-https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/18.0/NI_ELVISmx_Software_Suite_2018.zip
-NI_ELVISmx_Software_Suite_2018.zip
-f45ba4cced80a6ac538b6c50b60c77ef
-18
-NI-ELVISmx Software Suite 2018
-NI.ELVISmxSoftwareSuite 
-
 https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86/19.0/offline/ni-elvismx-software-suite-x86_19.0.0.49169-0+f17_offline.iso 
 ni-elvismx-software-suite-x86_19.0.0.49169-0+f17_offline.iso
 11536ac6fc5beadfee35b10ba9f73217

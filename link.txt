@@ -1,10 +1,3 @@
-https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/15.0/NI_ELVISmx_Software_Suite_2015.zip 
-NI_ELVISmx_Software_Suite_2015.zip
-278034753851f40c61666622c1cc5343
-15
-NI-ELVISmx Software Suite 2015
-NI.ELVISmxSoftwareSuite 
- 
 https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/16.0/NI_ELVISmx_Software_Suite_2016.zip 
 NI_ELVISmx_Software_Suite_2016.zip
 4183781b6266b4d896b86c45c431726e

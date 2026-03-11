@@ -1,10 +1,3 @@
-https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-ja/19.0/offline/ni-elvismx-software-suite-x86-ja_19.0.0.49169-0+f17_offline.iso 
-ni-elvismx-software-suite-x86-ja_19.0.0.49169-0+f17_offline.iso
-c26d853a9306318a9248c3dc93588592
-19.0.0.ja-JP
-NI-ELVISmx Software Suite 2019(19.0.0) Japanese
-NI.ELVISmxSoftwareSuite 
-
 https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-ja/19.0/offline/ni-elvismx-software-suite-x86-ja_19.0.1.49152-0+f0_offline.iso 
 ni-elvismx-software-suite-x86-ja_19.0.1.49152-0+f0_offline.iso
 1709e1703627cde2b45c8b0dae99041b

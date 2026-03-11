@@ -1,7 +1,97 @@
-https://download.ni.com/support/nipkg/products/ni-4/ni-488.2/25.5/offline/ni-488.2_25.5.0_offline.iso
-ni-488.2_25.5.0_offline.iso
-b5d70eece047171d95650e69ff17ea23
-25.5.0
-NI-488.2 2025Q3
-NI.488.2
+https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/15.0/NI_ELVISmx_Software_Suite_2015.zip 
+NI_ELVISmx_Software_Suite_2015.zip
+278034753851f40c61666622c1cc5343
+15
+NI-ELVISmx Software Suite 2015
+NI.ELVISmxSoftwareSuite 
 
+https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/16.0/NI_ELVISmx_Software_Suite_2016.zip 
+NI_ELVISmx_Software_Suite_2016.zip
+4183781b6266b4d896b86c45c431726e
+16
+NI-ELVISmx Software Suite 2016
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/17.0/NI_ELVISmx_Software_Suite_2017.zip 
+NI_ELVISmx_Software_Suite_2017.zip
+c524b18ba9029855f1800beff57f4202
+17
+NI-ELVISmx Software Suite 2017
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/softlib/multifunction_daq/elvismxsuite/18.0/NI_ELVISmx_Software_Suite_2018.zip
+NI_ELVISmx_Software_Suite_2018.zip
+f45ba4cced80a6ac538b6c50b60c77ef
+18
+NI-ELVISmx Software Suite 2018
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86/19.0/offline/ni-elvismx-software-suite-x86_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86_19.0.0.49169-0+f17_offline.iso
+11536ac6fc5beadfee35b10ba9f73217
+19.0.0.en-US
+NI-ELVISmx Software Suite 2019(19.0.0) English
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-fr/19.0/offline/ni-elvismx-software-suite-x86-fr_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86-fr_19.0.0.49169-0+f17_offline.iso
+ee827c20aeaf20f440f3738c0692265a
+19.0.0.fr-FR
+NI-ELVISmx Software Suite 2019(19.0.0) French
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-fr/19.0/offline/ni-elvismx-software-suite-x86-fr_19.0.1.49152-0+f0_offline.iso 
+ni-elvismx-software-suite-x86-fr_19.0.1.49152-0+f0_offline.iso
+95af60b904385212daa1eea5b95175da
+19.0.1.fr-FR
+NI-ELVISmx Software Suite 2019(19.0.1) French
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-de/19.0/offline/ni-elvismx-software-suite-x86-de_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86-de_19.0.0.49169-0+f17_offline.iso
+c676d958d00dba1d268702e2f74a2978
+19.0.0.de-DE
+NI-ELVISmx Software Suite 2019(19.0.0) German
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-de/19.0/offline/ni-elvismx-software-suite-x86-de_19.0.1.49152-0+f0_offline.iso 
+ni-elvismx-software-suite-x86-de_19.0.1.49152-0+f0_offline.iso
+d3592526228d81948bf2014aa799d8f1
+19.0.1.de-DE
+NI-ELVISmx Software Suite 2019(19.0.1) German
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-ja/19.0/offline/ni-elvismx-software-suite-x86-ja_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86-ja_19.0.0.49169-0+f17_offline.iso
+c26d853a9306318a9248c3dc93588592
+19.0.0.ja-JP
+NI-ELVISmx Software Suite 2019(19.0.0) Japanese
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-ja/19.0/offline/ni-elvismx-software-suite-x86-ja_19.0.1.49152-0+f0_offline.iso 
+ni-elvismx-software-suite-x86-ja_19.0.1.49152-0+f0_offline.iso
+1709e1703627cde2b45c8b0dae99041b
+19.0.1.ja-JP
+NI-ELVISmx Software Suite 2019(19.0.1) Japanese
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-ko/19.0/offline/ni-elvismx-software-suite-x86-ko_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86-ko_19.0.0.49169-0+f17_offline.iso
+6361c2241d927b5db26028c2806c3d6b
+19.0.0.ko-KR
+NI-ELVISmx Software Suite 2019(19.0.0) Korean
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-zh-cn/19.0/offline/ni-elvismx-software-suite-x86-zh-cn_19.0.0.49169-0+f17_offline.iso 
+ni-elvismx-software-suite-x86-zh-cn_19.0.0.49169-0+f17_offline.iso
+a912f3de69e96cd74c02147082809fbd
+19.0.0.ko-KR
+NI-ELVISmx Software Suite 2019(19.0.0) Korean
+NI.ELVISmxSoftwareSuite 
+
+https://download.ni.com/support/nipkg/products/ni-e/ni-elvismx-software-suite-x86-zh-cn/19.0/offline/ni-elvismx-software-suite-x86-zh-cn_19.0.1.49152-0+f0_offline.iso 
+ni-elvismx-software-suite-x86-zh-cn_19.0.1.49152-0+f0_offline.iso
+2de4fd58ff83dd0231de6eb82a86188c
+19.0.1.zh-CN
+NI-ELVISmx Software Suite 2019(19.0.1) Simplified Chinese
+NI.ELVISmxSoftwareSuite 
